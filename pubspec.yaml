@@ -1,4 +1,4 @@
-name: pro_m_esp_smartconfig
+name: esp_smartconfig
 description: EspTouch and EspTouchV2 implementations of SmartConfig provisioning protocols. Plain Dart. All platforms.
 version: 3.0.0
 homepage: https://mavinsandeep.xyz
